@@ -59,10 +59,10 @@
     </g>
 
     <!-- Programming Languages & Technologies -->
-    <text x="70" y="370"
+    <text x="70" y="375"
           fill="#c9d1d9"
           font-family="'Segoe UI', sans-serif"
-          font-size="20"
+          font-size="24"
           font-weight="600">
       Tech Stack
     </text>
