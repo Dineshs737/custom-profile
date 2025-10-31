@@ -1,3 +1,3 @@
 # Custom Profile
 
-![My Profile](my-profile.svg)
+![My Profile](my-profile.svg) 
