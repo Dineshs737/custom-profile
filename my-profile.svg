@@ -247,7 +247,7 @@
 
   <!-- Avatar Circle - Centered Bottom -->
   <g transform="translate(700, 500)">
-    <circle cx="0" cy="0" r="45"
+    <circle cx="0" cy="0" r="60"
             fill="#0d1117"
             stroke="#58a6ff"
             stroke-width="3">
@@ -255,8 +255,8 @@
       <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
     </circle>
 
-    <circle cx="0" cy="0" r="40" fill="url(#avatarGradient)">
-      <animate attributeName="r" values="40;42;40" dur="3s" repeatCount="indefinite"/>
+    <circle cx="0" cy="0" r="55" fill="url(#avatarGradient)">
+      <animate attributeName="r" values="55;57;55" dur="3s" repeatCount="indefinite"/>
     </circle>
 
     <text x="0" y="10"
